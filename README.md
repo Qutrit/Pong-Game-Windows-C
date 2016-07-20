@@ -1,5 +1,9 @@
 # Pong-Game-Windows-C++
-Pong written in C++. Includes an AI. The game runs on Window's command prompt. 
+Pong written in C++. Includes an AI.
+
+To run the game you need Microsoft Visual Studios or some other compiler. From there, you can
+compile the code and run it. The game runs on Window's command prompt. 
+
 This is one of the first things I programmed a while ago. 
 It's a bit CPU intensive and the arrow keys have a lag when held down because of the command prompt. 
 You can fix the lag with some assembly language because the lag is from the command prompt itself. 
