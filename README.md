@@ -1,4 +1,4 @@
-# Pong-Game-Windows-C++
+# Pong in C++ for Windows#
 Pong written in C++. Includes an AI.
 
 To run the game you need Microsoft Visual Studio or some other compiler. From there, you can
